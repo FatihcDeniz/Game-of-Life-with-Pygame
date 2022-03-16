@@ -11,7 +11,7 @@ The Game of Life is a cellular automaton created by John Horton Conway in 1970. 
 This project uses Python 3.9.9 and only requires two libraries: **`NumPy`** and **`pygame`**. You can run this project by writing **`python gameoflife.py`** in the terminal in the directory.
 
 ### Available Keys:
-- **`Space`** key will start or stop the run.
+- **`Space`** key will start or stop the animation.
 - **`Down`** key will slow the animation speed.
 - **`Up`** key will speed up the animation.
 - **`R`** key will reset the board while in pause.
