@@ -1,4 +1,4 @@
-# Game-of-Like-with-Pygame
+# Game-of-Life-with-Pygame
 This is Python implementation of John Conway's Game of Life.
 # Conway's Game of Life
 The Game of Life is a cellular automaton created by John Horton Conway in 1970. The game is a zero player game, meaning that its evolution is determined by its initial state. There are four rules of this game:
