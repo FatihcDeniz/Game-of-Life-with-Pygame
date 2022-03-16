@@ -15,7 +15,7 @@ This project uses Python 3.9.9 and only requires two libraries: **`NumPy`** and 
 - **`Down`** key will slow the animation speed.
 - **`Up`** key will speed up the animation.
 - **`R`** key will reset the board while in pause.
-- **`F`** key will fill whole make all the cells alive.
+- **`F`** key will make all the cells alive.
 - **`T`** key will generate random blocks of live cells on the screen.
 - **`Escape`** will terminate the window.
 - You can use your mouse to select or unselect points. If you click with the **`Left`** or **`Middle`** mouse button, it will make the cell alive, and if you click with the **`Right`** mouse button it will make the cell die.
